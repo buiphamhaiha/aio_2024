@@ -1,6 +1,10 @@
 {
     "sonarlint.connectedMode.project": {
+<<<<<<< HEAD
         "connectionId": "buiphamhaihaaio",
+=======
+        "connectionId": "buiphamhaiha",
+>>>>>>> feature/module02/week01
         "projectKey": "buiphamhaiha_aio_2024"
     }
 }
